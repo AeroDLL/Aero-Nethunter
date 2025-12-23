@@ -1,0 +1,5 @@
+scapy>=2.5.0
+colorama>=0.4.6
+mac-vendor-lookup>=0.1.12
+psutil
+flask

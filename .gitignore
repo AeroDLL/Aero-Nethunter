@@ -1,0 +1,11 @@
+__pycache__/
+build/
+dist/
+*.spec
+*.exe
+.vscode/
+.idea/
+*.json
+!requirements.txt
+!README.md
+!*.py
